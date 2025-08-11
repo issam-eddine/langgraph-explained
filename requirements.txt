@@ -1,0 +1,16 @@
+graphviz
+groq
+ipykernel
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchainhub
+langchain-openai
+langgraph
+openai
+pydantic
+pyppeteer
+python-dotenv
+redis
+nest-asyncio
